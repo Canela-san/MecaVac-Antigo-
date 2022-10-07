@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=C6-1
-Removed Pin From Net: NetName=+12V Pin=C6-2
-Removed Member From Class: ClassName=MecaVac Member=C7
-Change Component Comment : Designator=C7 Old Comment=EEUHD1A103 New Comment=10mF
-Change Component Designator: OldDesignator=C7 NewDesignator=C6
